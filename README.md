@@ -1,6 +1,7 @@
 # Decoding the Impact on Influencer Marketing: An Analysis of Sponsored Content Performance
 
-![Poster Demo](poster.pdf)  
+<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/097d8b53-69a8-4516-a28b-4414ac0ae75f" />
+ 
 ## Introduction
 Our research utilizes Instagram posts as data to investigate the impact of influencers’ sponsored content on electronic word-of-mouth (eWOM) in social commerce. We aim to uncover key factors driving post-virality and audience engagement within the context of influencer marketing. We implement exploratory data analysis, natural language processing, and hypothesis testing, investigating useful features and identifying meaningful metrics that can effectively predict post-popularity. This study performs comprehensive analysis to provide actionable insights for businesses, enabling them to optimize their influencer marketing strategies. Furthermore, we conducted several experiments to build predictive models utilizing machine learning, and neural networks techniques, with a mean square error of 0.00106, enabling influencers to better foreseen their post’s possible popularity.
 
